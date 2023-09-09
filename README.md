@@ -1,5 +1,6 @@
 # FractionCalculator_FracNut_GUI_StableRelease
 **A Fraction Calculator (Project Name FracNut) - Stable Release**
+
 Stable Released Version 1.0.0, Release Date: Sept 9, 2023
 
 ## What is FracNut
